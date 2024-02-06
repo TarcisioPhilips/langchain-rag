@@ -1,4 +1,4 @@
-# langchain-rag-template
+# langchain-rag
 
 Install dependencies
 ``` 
